@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo / React Native
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Android / iOS 빌드 파일
+*.apk
+*.aab
+*.ipa
+android/
+ios/
+*.xcworkspace
+Pods/
+
+# Vite / React
+dist/
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
